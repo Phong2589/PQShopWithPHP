@@ -1,0 +1,162 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+	background-color:#e9ffb9;
+}
+
+#logo{
+	max-width: 100%;
+	width:100px;
+}
+
+a{
+	text-decoration: none;
+}
+.cachnav
+{
+	margin-top: 95px;
+}
+
+.navbar a:hover{
+  color:#F2EFEF;
+}
+.dropdown-menu
+{
+	background-color: #9999CC;
+}
+.dropdown-menu a:hover
+{
+	color:black;
+}
+#formdangki
+{
+	width: 550px;
+	margin: 0 auto;
+}
+.maudo{
+	color:red;
+}
+#dangki,#dangnhap{
+	background-color: #82A6C8;
+}
+#formdangnhap
+{
+	width: 500px;
+	margin: 0 auto;
+}
+.cangiua{
+	margin: 0 auto;
+}
+.hienthisanpham{
+	border: 2px solid black;
+	display: inline-block;
+	width: 24.4%;
+	height :400px;
+	margin-left: 5px;
+	padding: 7px;
+	margin-top: 5px;
+	
+}
+.ktanh{
+/*	padding-top: 100%;*/
+	width: 100%;
+    height: 63%;
+	display: flex;
+	margin: auto;
+	
+	
+}
+
+#cart{
+	max-width: 100%;
+	width:65px;
+}
+#tksubmit
+{
+	border: 2px solid black;
+	border-radius: 8px;
+}
+.botron{
+	border: 2px solid black;
+	border-radius: 8px;
+}
+.thongbao
+{
+	margin: 20px auto;
+	padding: 10px 10px;
+	text-align: center;
+	background-color: #9ABB8A;
+	border-radius: 50px;
+}
+.cautb
+{
+	font-size: 50px;
+	margin-top: 300px;
+	text-align: center;
+}
+.hoanthanh
+{
+	background-color: #65EA63;
+}
+.huydon
+{
+	background-color: #F25E5E;;
+}
+.xemchitiet:hover
+{
+	color:#F74747;
+}
+.xemchitiet:active
+{
+	color:#6C6565;
+}
+.xemchitiet:visited
+{
+	color:#030B59;
+}
+.hoanthanhdon:hover
+{
+	color:#43FA37;
+}
+.dropdown{
+	position: relative;
+	display: inline-block;
+}
+.dropdown-content{
+	display:none;
+	position: absolute;
+	z-index: 1;
+	background-color: #C7BFBF;
+	border-radius: 6px;
+}
+.dropdown-content a:hover
+{
+	background-color: #D7F0C1;
+	color:black;
+	border-radius: 6px;
+}
+.dropdown:hover .dropdown-content
+{
+	display:block;
+}
+
+.chungtieude
+{
+	display: flex;
+	justify-content: space-between;
+}
+.ndtimkiem
+{
+	border: 2px solid black;
+	border-radius: 10px;
+	outline: none;
+}
+.nav-link{
+	padding:0;
+}
+.indam
+{
+	font-weight: bold;
+}
